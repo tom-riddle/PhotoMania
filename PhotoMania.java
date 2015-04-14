@@ -1522,35 +1522,5 @@ public BufferedImage shear(BufferedImage img)
      private JButton jButton60;
     private JPanel jPanel60;
 
-
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
